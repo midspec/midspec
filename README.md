@@ -1,5 +1,5 @@
 - Amature software engineer
 - Javascript "programmer"
-- Otimization enthusiast
+- Optimization enthusiast
 
 I realize those last two might conflict.
